@@ -1,0 +1,14 @@
+{
+    "login_001":{"username":"18506297401",
+               "password":"xxxxx",
+               "expect_result":"",
+                "success": true,
+                "commodity": "小米手机",
+                "purchase_password":"111111"},
+    "login_002":{"username":"18506297401",
+               "password":"xxxxx",
+               "expect_result":"账密错误",
+                "success": false,
+                "commodity": "小米手机",
+                "purchase_password":"111111"}
+}
